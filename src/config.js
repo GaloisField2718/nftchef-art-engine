@@ -27,7 +27,7 @@ const hashImages = true;
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 100,
+    growEditionSizeTo: 130,
     namePrefix: "Première génération de nft", //Use to add a name to Metadata `name:`
     layersOrder: [
       { name: "Background" },
