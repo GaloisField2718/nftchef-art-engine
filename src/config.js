@@ -27,22 +27,11 @@ const hashImages = true;
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 11,
-    // namePrefix: "Monkey", Use to add a name to Metadata `name:`
+    growEditionSizeTo: 100,
+    namePrefix: "Première génération de nft", //Use to add a name to Metadata `name:`
     layersOrder: [
       { name: "Background" },
-      {
-        name: "Back Accessory",
-        // options: {
-        //   bypassDNA: true,
-        // },
-      },
-      { name: "Head" },
-      { name: "Clothes" },
-      { name: "Eyes" },
-      { name: "Hair" },
-      { name: "Head Accessory" },
-      { name: "Shirt Accessories" },
+      { name: "Sujets" },
     ],
   },
   // {
